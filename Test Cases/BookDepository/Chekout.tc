@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Sebagai pembeli, saya ingin bisa menambahkan dan mengurangi buku pada
+keranjang agar saya bisa menyesuaikan jumlah buku yang ingin saya beli dengan
+budget yang saya miliki</description>
+   <name>Chekout</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dcd2a257-a39c-42dc-9372-7c4f9b41dd65</testCaseGuid>
+</TestCaseEntity>
